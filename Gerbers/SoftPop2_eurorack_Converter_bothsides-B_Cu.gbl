@@ -1,0 +1,39 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*%
+%TF.CreationDate,2022-03-19T15:46:14+01:00*%
+%TF.ProjectId,SoftPop2_eurorack_Converter_bothsides,536f6674-506f-4703-925f-6575726f7261,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-03-19 15:46:14*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,3.600000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,4.800000X3.600000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,REF\u002A\u002A,*%
+%TO.N,*%
+X8523000Y-16000000D03*
+%TD*%
+%TO.P,REF\u002A\u002A,*%
+%TO.N,*%
+X163974000Y-16000000D03*
+%TD*%
+D11*
+%TO.P,REF\u002A\u002A,*%
+%TO.N,*%
+X7443000Y-3000000D03*
+%TD*%
+%TO.P,REF\u002A\u002A,*%
+%TO.N,*%
+X165104000Y-3000000D03*
+%TD*%
+M02*
